@@ -1,0 +1,18 @@
+{
+  "model": "kling-v3",
+  "samples": [
+    {
+      "repo": "kling-3-api-cn",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 3783123,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.336,
+      "prompt": "海边悬崖上的现代别墅，黄昏，泳池倒映天空，缓慢推镜",
+      "lang": "zh"
+    }
+  ],
+  "cost_usd": 0.336,
+  "generated_at": "2026-09-21"
+}

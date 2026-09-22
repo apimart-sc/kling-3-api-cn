@@ -2,7 +2,8 @@
 
 > **每秒 $0.0672**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
-**[查看 Kling v3 模型页](https://go.apimart.ai/k-8bcfe0)** · **[实时价格](https://go.apimart.ai/k-502899)** · **[获取 API Key](https://go.apimart.ai/k-ba419b)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Kling v3 sample frame"></p>
+**[查看 Kling v3 模型页](https://apimart.ai/zh/model/kling-3-0-turbo)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
 
 运镜和运动表现是它的强项，pro 档适合成片、sound 档直接带音轨，省掉一条音频管线。
 
@@ -20,6 +21,13 @@
 | `model` | `kling-v3` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 真实调用样例（下表每条都是实际跑出来的结果）
+
+| 输出档位 | file | 花费 | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.336 | `海边悬崖上的现代别墅，黄昏，泳池倒映天空，缓慢推镜` |
 
 ## 实测价格
 
