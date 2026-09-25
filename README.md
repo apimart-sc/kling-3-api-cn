@@ -3,7 +3,7 @@
 > **每秒 $0.0672**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
 <p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Kling v3 sample frame"></p>
-**[查看 Kling v3 模型页](https://apimart.ai/zh/model/kling-3-0-turbo)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
+**[查看 Kling v3 模型页](https://go.apimart.ai/k-8bcfe0)** · **[实时价格](https://go.apimart.ai/k-502899)** · **[获取 API Key](https://go.apimart.ai/k-ba419b)**
 
 运镜和运动表现是它的强项，pro 档适合成片、sound 档直接带音轨，省掉一条音频管线。
 
